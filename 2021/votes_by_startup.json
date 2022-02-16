@@ -1,0 +1,60 @@
+{
+  "votesByStartup": [
+    {
+      "name": "Cake DeFi",
+      "description": "Cake DeFi enables and empowers users to generate real cash flow from their cryptocurrencies, by making decentralised finance (DeFi) accessible to anyone. The platform offers a number of highly innovative product solutions including Staking, Lending and Liquidity Mining, as a means to generate yield for its users.\n\nCake DeFi was founded in 2019 by industry veterans, Dr. Julian Hosp and U-Zyn Chua, on the core principles of trust, transparency, innovation, service excellence and user experience.\n\nSince its inception, Cake DeFi has become one of the world's fastest growing and most trusted crypto-finance platforms. ",
+      "url": "https://www.cakedefi.com",
+      "votes": 6556,
+      "city": "Singapore, Singapore",
+      "region": "SOUTHEAST_ASIA"
+    },
+    {
+      "name": "WeGroup",
+      "description": "WeGroup is a Belgian InsurTech startup that helps insurance providers all over the world to better connect with their digital customers.",
+      "url": "https://wegroup.ai",
+      "votes": 5379,
+      "city": "Ghent",
+      "region": "WESTERN_EUROPE"
+    },
+    {
+      "name": "Hum Capital",
+      "description": "Hum Capital is turning the tables on the traditional fundraising process. We believe that there’s a better way for companies to access the capital they need to grow, and for investors to find signals in a noisy market. Fundraising that’s efficient, transparent, data-driven.\n\nHum Capital is a funding platform that connects great companies with the right capital, engineered to value a company’s potential over social proof, and performance over vanity metrics. We help private companies get the clearest picture of their value, and match them with the best source of capital for their business.",
+      "url": "https://humcapital.com/",
+      "votes": 5262,
+      "city": "New York City ",
+      "region": "NEW_YORK"
+    },
+    {
+      "name": "CAST AI",
+      "description": "CAST AI combines instant AI-driven cloud optimization with Kubernetes. It’s one platform that cuts your cloud bill in half, boosts the power of DevOps 10X, and guarantees business continuity by preventing downtime.",
+      "url": "https://cast.ai",
+      "votes": 4422,
+      "city": "Miami",
+      "region": "US"
+    },
+    {
+      "name": "Splyt Core Foundation",
+      "description": "Splyt is responsible for the original utility NFT concept, created back in 2017. The Splyt e-comm NFT (eNFT) is used to empower a secure and transparent ecommerce landscape. The eNFT is enables live-updating inventory management, transparent sales within a decentralized ecosystem, brand control of CAC, and proof of authenticity (with the capacity to dismantle counterfeit industry) for frictionless partnerships and deeper consumer loyalty.",
+      "url": "https://www.splytcore.org",
+      "votes": 3334,
+      "city": "Miami",
+      "region": "US"
+    },
+    {
+      "name": "Zentist",
+      "description": "Zentist is automating insurance billing for dental practices so that they get paid fast and do not lose money due to complex and insurance processes and aged technology of gatekeepers of the industry. ",
+      "url": "https://www.zentist.io",
+      "votes": 3205,
+      "city": "San Francisco, United States",
+      "region": "CALIFORNIA"
+    },
+    {
+      "name": "dws holdings, inc.",
+      "description": "E-commerce/Biotech/Fintech/AI",
+      "url": "https://dws-holdings.com",
+      "votes": 3159,
+      "city": "New York City ",
+      "region": "NEW_YORK"
+    }
+  ]
+}
