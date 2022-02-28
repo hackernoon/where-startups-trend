@@ -22,7 +22,7 @@ Stories About the Learnings from this data:
 * [ZigiWave is recognized as one of the best startups in Sofia, Bulgaria](https://zigiwave.com/startup-awards-hackernoon/)
 * [ResponseCRM Executive Behzad Sharifi Receives Noonies Awards for Business Strategy and Remote Teams](https://www.prnewswire.com/news-releases/responsecrm-executive-behzad-sharifi-receives-noonies-awards-for-business-strategy-and-remote-teams-301484364.html)
 
-[Companies celebrating on Twitter](https://twitter.com/search?q=startups.hackernoon.com&src=typed_query&f=live), [Instagram](https://www.instagram.com/explore/tags/hackernoon/), and [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=startup%20of%20the%20year%20hacker%20noon&origin=SPELL_CHECK_DID_YOU_MEAN&spellCorrectionEnabled=false) :-) 
+[Companies celebrating on Twitter](https://twitter.com/search?q=startups.hackernoon.com&src=typed_query&f=live), [Instagram](https://www.instagram.com/explore/tags/hackernoon/), [Facebook](https://www.facebook.com/search/top/?q=startups.hackernoon.com), and [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=startup%20of%20the%20year%20hacker%20noon&origin=SPELL_CHECK_DID_YOU_MEAN&spellCorrectionEnabled=false) :-) 
 
 ![you built this Startups of the year hackernoon](https://user-images.githubusercontent.com/45616838/156076706-55ddcb9b-ef3d-43d3-89a5-6eceb12a0a85.jpeg)
 
