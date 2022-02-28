@@ -5,8 +5,8 @@ Open source data for [HackerNoon](https://hackernoon.com)'s [Startup of the Year
 ![Startups of the year hackernoon](https://user-images.githubusercontent.com/45616838/154575261-3bea2cf0-a87c-4416-8720-3f091c24e393.png)
 
 Stories About the Learnings from this data:
-* ["The Top 100 Trending Startup Cities"](https://hackernoon.com/the-top-100-trending-startup-cities)
-* ["What Domain Ending Should Your Startup Be? 66.5% of Top Startups Use Dotcom"](https://hackernoon.com/what-domain-ending-should-your-startup-be-665percent-of-top-startups-use-dotcom)
+* [The Top 100 Trending Startup Cities](https://hackernoon.com/the-top-100-trending-startup-cities)
+* [What Domain Ending Should Your Startup Be? 66.5% of Top Startups Use Dotcom](https://hackernoon.com/what-domain-ending-should-your-startup-be-665percent-of-top-startups-use-dotcom)
 * [34 Trending Startup Locations Based on 2021 Tech Community Polling](https://hackernoon.com/34-trending-startup-locations-based-on-2021-tech-community-polling)
 
 [MoreStories About Startup of The Year Winners](https://hackernoon.com/tagged/startups-2021-results):
