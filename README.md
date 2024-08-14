@@ -2,7 +2,7 @@
 
 Open source data for [HackerNoon](https://hackernoon.com)'s [Startup of the Year by Location vote](https://startups.hackernoon.com): hundreds of thousands of votes for tens of thousands of startups in thousands of cities worldwide. Powered by HackerNoon's [Noonies Voting Software](https://noonies.tech). 
 
-![Startups of the year hackernoon](https://user-images.githubusercontent.com/45616838/154575261-3bea2cf0-a87c-4416-8720-3f091c24e393.png)
+<img width="800" alt="Email Banner (9)" src="https://github.com/user-attachments/assets/229a0a24-54e3-4d3a-96d8-b4b44bfc9a51">
 
 Stories About the Learnings from this data:
 * [The Top 100 Trending Startup Cities](https://hackernoon.com/the-top-100-trending-startup-cities)
@@ -23,8 +23,6 @@ Stories About the Learnings from this data:
 * [ResponseCRM Executive Behzad Sharifi Receives Noonies Awards for Business Strategy and Remote Teams](https://www.prnewswire.com/news-releases/responsecrm-executive-behzad-sharifi-receives-noonies-awards-for-business-strategy-and-remote-teams-301484364.html)
 
 [Companies celebrating on Twitter](https://twitter.com/search?q=startups.hackernoon.com&src=typed_query&f=live), [Instagram](https://www.instagram.com/explore/tags/hackernoon/), [Facebook](https://www.facebook.com/search/top/?q=startups.hackernoon.com), and [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=startup%20of%20the%20year%20hacker%20noon&origin=SPELL_CHECK_DID_YOU_MEAN&spellCorrectionEnabled=false) :-) 
-
-![you built this Startups of the year hackernoon](https://user-images.githubusercontent.com/45616838/156076706-55ddcb9b-ef3d-43d3-89a5-6eceb12a0a85.jpeg)
 
 Top Startup Regions:
 * [Canada And Central America Startups](https://startups.hackernoon.com/canada-and-central-america)
