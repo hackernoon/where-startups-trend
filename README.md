@@ -1,6 +1,6 @@
 # where-startups-trend
 
-Open source data for [HackerNoon](https://hackernoon.com)'s [Startup of the Year by Location vote](https://startups.hackernoon.com): hundreds of thousands of votes for tens of thousands of startups in thousands of cities worldwide. Powered by HackerNoon's [Noonies Voting Software](https://noonies.tech). 
+Open source data for [HackerNoon](https://hackernoon.com)'s [Startup of the Year by Location vote](https://startups.hackernoon.com): hundreds of thousands of votes for tens of thousands of startups in thousands of cities worldwide.
 
 <img width="800" alt="Email Banner (9)" src="https://github.com/user-attachments/assets/229a0a24-54e3-4d3a-96d8-b4b44bfc9a51">
 
