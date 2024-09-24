@@ -2,7 +2,7 @@
 
 Open source data for [HackerNoon](https://hackernoon.com)'s [Startup of the Year by Location vote](https://startups.hackernoon.com): hundreds of thousands of votes for tens of thousands of startups in thousands of cities worldwide.
 
-<img width="800" alt="Email Banner (9)" src="https://github.com/user-attachments/assets/229a0a24-54e3-4d3a-96d8-b4b44bfc9a51">
+![Github Readme](https://github.com/user-attachments/assets/240dfb51-9628-47e9-b16d-aa17c3b32f64)
 
 Stories About the Learnings from this data:
 * [The Top 100 Trending Startup Cities](https://hackernoon.com/the-top-100-trending-startup-cities)
