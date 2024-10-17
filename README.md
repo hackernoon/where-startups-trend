@@ -1,6 +1,6 @@
 # where-startups-trend
 
-Open source data for [HackerNoon](https://hackernoon.com/)'s [Startup of The Year by Location vote](https://startups.hackernoon.com/): over 623,000 total votes were cast for 30,000+ startups from 4,000+ cities worldwide.
+Open source data for [HackerNoon](https://hackernoon.com/)'s [Startup of The Year Votes](https://startups.hackernoon.com/): over 623,000 total votes were cast for 30,000+ startups from 4,000+ cities worldwide.
 
 ![Github Readme](https://github.com/user-attachments/assets/2bcbc541-5379-4d16-a4c2-775b6fff856c)
 
