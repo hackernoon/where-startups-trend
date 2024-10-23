@@ -43,9 +43,8 @@ In 2024, HackerNoon will have even more data to work with and the editorial team
 
 ### Top Startup Regions:
 * [Northern American Startups](https://hackernoon.com/startups/north-america)
-* [New York Startups](https://hackernoon.com/startups/2023/north-america/north-america-new-york-us-usa)
-* [California Startups](https://hackernoon.com/startups/2023/north-america/north-america-california-us-usa)
-* [London Startups](https://hackernoon.com/startups/2023/europe/europe-london-england-uk)
+* [New York Startups](https://hackernoon.com/startups/north-america/north-america-new-york-us-usa)
+* [London Startups](https://hackernoon.com/startups/europe/europe-london-england-uk)
 * [Oceania Startups](https://hackernoon.com/startups/oceania)
 * [South American Startups](https://hackernoon.com/startups/south-america)
 * [European Startups](https://hackernoon.com/startups/europe)
@@ -54,8 +53,8 @@ In 2024, HackerNoon will have even more data to work with and the editorial team
 * [Sydney Startups](https://hackernoon.com/startups/oceania/oceania-sydney-australia)
 * [Singapore Startups](https://hackernoon.com/startups/asia/asia-singapore-singapore)
 * [Telangana Startups](https://hackernoon.com/startups/asia/asia-telangana-india)
-* [San Francisco Startups](https://hackernoon.com/startups/2023/north-america/north-america-san-francisco-ca-usa)
-* [Mumbai Startups](https://hackernoon.com/startups/2023/asia/asia-mumbai-ma-india)
+* [San Francisco Startups](https://hackernoon.com/startups/north-america/north-america-san-francisco-ca-usa)
+* [Mumbai Startups](https://hackernoon.com/startups/asia/asia-mumbai-mh-india)
 * [Algiers Startups](https://hackernoon.com/startups/africa/africa-algiers-algiers-province-algeria)
 
 ### Top Startup Industries:
