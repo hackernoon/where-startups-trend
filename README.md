@@ -1,10 +1,10 @@
 # where-startups-trend
 
-Open source data for [HackerNoon](https://hackernoon.com/)'s [Startup of The Year Votes](https://startups.hackernoon.com/): over 623,000 total votes were cast for 30,000+ startups from 4,000+ cities worldwide.
+Open source data for [HackerNoon](https://hackernoon.com/)'s [Startup of The Year Votes](https://startups.hackernoon.com/): over 623,000 total votes were cast for 30,000+ startups from 4,000+ cities worldwide. *New* standalone site for all Startups of the Year Updates: [TrendingStartups.tech](https://trendingstartups.tech/)
 
 ![Github Readme](https://github.com/user-attachments/assets/2bcbc541-5379-4d16-a4c2-775b6fff856c)
 
-As with all years, HackerNoon releases the unique social data gathered from Startups of The Year on GitHub and Hugging Face for valuable insights. In the 2023 version, 30,000+ startups from 4,000+ cities participated to be crowned the best in their city. New standalone site for all Startups of the Year Updates: [TrendingStartups.tech](https://trendingstartups.tech/)
+As with all years, HackerNoon releases the unique social data gathered from Startups of The Year on GitHub and Hugging Face for valuable insights. In the 2023 version, 30,000+ startups from 4,000+ cities participated to be crowned the best in their city. 
 
 Data from the contest found that “.com” predominantly remained the most popular domain pick for startups, highlighting its wide recognition and influence from the early days of the internet. It also found that Sydney, London, Singapore, and San Francisco were among the top trending startup cities in the world based on the HackerNoon community's global interest in those locations.
 
