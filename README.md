@@ -44,6 +44,7 @@ In 2024, HackerNoon will have even more data to work with and the editorial team
 ### Top Startup Regions:
 * [Northern American Startups](https://hackernoon.com/startups/north-america)
 * [New York Startups](https://hackernoon.com/startups/north-america/north-america-new-york-us-usa)
+* [California Startups](https://hackernoon.com/startups/north-america/north-america-california-us-usa)
 * [London Startups](https://hackernoon.com/startups/europe/europe-london-england-uk)
 * [Oceania Startups](https://hackernoon.com/startups/oceania)
 * [South American Startups](https://hackernoon.com/startups/south-america)
